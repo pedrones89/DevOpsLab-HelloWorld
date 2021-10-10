@@ -63,7 +63,7 @@ a {
   border-radius: 2px;
   background-color: #008B8B;
   font-size: 14px;
-  color: rgba(255, 255, 255, 0);
+  color: #008B8B;
   transition: all 0.3s; }
   .course:nth-child(odd) {
     margin-left: 1%; }
@@ -76,15 +76,15 @@ a {
     font-size: 16px; }
 
 .devops-course {
-  background-color: #00aab0;
-  color: #fff; }
+  background-color: #008B8B;
+  color: #008B8B; }
 
 .ops-course {
-  background-color: #804297;
-  color: #fff; }
+  background-color: #008B8B;
+  color: #008B8B; }
 
 .dev-course {
   background-color: #f0860c;
-  color: #fff; }
+  color: #008B8B; }
 
 /*# sourceMappingURL=main.css.map */
